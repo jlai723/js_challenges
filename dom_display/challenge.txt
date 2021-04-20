@@ -1,0 +1,13 @@
+5 things to do if we have time:
+
+(45 mins)
+1) Create an html / css / js page and link them (5)
+2) Add a button on the html page that fires a function (5)
+3) Write a function that uses fetch to get an array of films (10)
+4) Write a function that uses this array to display results (10)
+5) Make the page look nice (10)
+
+Bonus:
+1) Use bootstrap to display nice cards for each element
+2) Display interesting info for each film
+2) Add a button for each item displayed that removes it from the screen
